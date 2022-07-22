@@ -1,0 +1,14 @@
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.exe
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.deps.json
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.runtimeconfig.json
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.runtimeconfig.dev.json
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\bin\Debug\netcoreapp3.1\Soru_1.pdb
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.csproj.AssemblyReference.cache
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.AssemblyInfoInputs.cache
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.AssemblyInfo.cs
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.csproj.CoreCompileInputs.cache
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.dll
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.pdb
+D:\Yazılım Mühendisliği\Projelerim\Proje 2 Katmanlı Mimaride Profesyonel Proje Geliştirmek\Soru_1\Soru_1\obj\Debug\netcoreapp3.1\Soru_1.genruntimeconfig.cache
